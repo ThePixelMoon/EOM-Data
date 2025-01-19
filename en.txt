@@ -1,4 +1,7 @@
 play_button=Play
+quit_button=Quit
+copy_button=Copy
+
 flower_island=Flower Island
 flower_island_bio=Flower Island is a calm place, for Monsters to hang out, and for Flowers to collect Monsters. What? Nothing, that was a joke.
 monster_flowerning=Flowerning
