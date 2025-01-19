@@ -1,1 +1,7 @@
-test_string=Test
+play_button=Play
+
+flower_island=Flower Island
+flower_island_bio=Flower Island is a calm place, for Monsters to hang out, and for Flowers to collect Monsters. What? Nothing, that was a joke.
+
+monster_flowerning=Flowerning
+monster_flowerning_bio=Flowernings are wonderful creatures! They use the magic of flowers to grow EVEN MORE flowers! You may ask, how? The magic of flowers.
