@@ -5,8 +5,12 @@ copy_button=Copy
 button_sell=Sell
 button_shop=Shop
 button_back=Back
+button_maps=Islands
 
 flower_island=Flower Island
 flower_island_bio=Flower Island is a calm place, for Monsters to hang out, and for Flowers to collect Monsters. What? Nothing, that was a joke.
+rock_island=Rock Island
+rock_island_bio=Full of rocks, the Rock Island is a hurtful place to stay.
+
 monster_flowerning=Flowerning
 monster_flowerning_bio=Flowernings are wonderful creatures! They use the magic of flowers to grow EVEN MORE flowers! You may ask, how? The magic of flowers.
