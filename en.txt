@@ -14,5 +14,13 @@ flower_island_bio=Flower Island is a calm place, for Monsters to hang out, and f
 rock_island=Rock Island
 rock_island_bio=Full of rocks, the Rock Island is a hurtful place to stay.
 
-monster_flowerning=Flowerning
-monster_flowerning_bio=Flowernings are wonderful creatures! They use the magic of flowers to grow EVEN MORE flowers! You may ask, how? The magic of flowers.
+Monster_flowerning=Flowerning
+Monster_flowerning_bio=Flowernings are wonderful creatures! They use the magic of flowers to grow EVEN MORE flowers! You may ask, how? The magic of flowers.
+Monster_beanboy=Bean Boy
+Monster_beanboy=Bean Boy may look like a jelly, and you're absolutely correct; it's a jelly made out of beans. Wy is he red? The Flowerning gave him some flowers, and they colored him. At first, he was purple. 
+Monster_batawah=Batawah
+Monster_batawah=Batawah bio
+Monster_ben=Flying Ben
+Monster_ben=There was once a snake called Ben, that always wished to fly since it's childhood. Not anymore! It's name has "flying" for a reason: it tried to fall from a tree by "accident", and after that it discovered it can fly.
+Monster_choirler=Choirler
+Monster_choirler_bio=Choirler bio
