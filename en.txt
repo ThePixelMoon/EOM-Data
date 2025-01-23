@@ -11,8 +11,6 @@ button_close=Close
 
 flower_island=Flower Island
 flower_island_bio=Flower Island is a calm place, for Monsters to hang out, and for Flowers to collect Monsters. What? Nothing, that was a joke.
-rock_island=Rock Island
-rock_island_bio=Full of rocks, the Rock Island is a hurtful place to stay.
 
 Monster_flowerning=Flowerning
 Monster_flowerning_bio=Flowernings are wonderful creatures! They use the magic of flowers to grow EVEN MORE flowers! You may ask, how? The magic of flowers.
@@ -24,3 +22,13 @@ Monster_ben=Flying Ben
 Monster_ben=There was once a snake called Ben, that always wished to fly since it's childhood. Not anymore! It's name has "flying" for a reason: it tried to fall from a tree by "accident", and after that it discovered it can fly.
 Monster_choirler=Choirler
 Monster_choirler_bio=Choirler bio
+
+rock_island=Rock Island
+rock_island_bio=Full of rocks, the Rock Island is a hurtful place to stay.
+
+Monster_rockinroll=Rock'In Roll
+Monster_rockinroll_bio=Rock'In Roll bio
+Monster_flyoh=Flyoh
+Monster_flyoh_bio=Flyoh bio
+Monster_crerock=Crerock
+Monster_crerock_bio=Crerocks are unique creatures, with 2 wings above them. Why do they have wings? To make the swinging sound. 
