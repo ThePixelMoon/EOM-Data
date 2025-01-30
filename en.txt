@@ -8,6 +8,9 @@ button_back=Back
 button_maps=Islands
 button_go=Go
 button_close=Close
+button_apply=Apply
+button_info=Info
+button_move=Move
 
 flower_island=Flower Island
 flower_island_bio=Flower Island is a calm place, for Monsters to hang out, and for Flowers to collect Monsters. What? Nothing, that was a joke.
